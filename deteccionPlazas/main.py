@@ -38,7 +38,7 @@ def check(img, imgPro):
                     thick = 2
 
                 # Dibujar el rectángulo en la imagen original sobre la posición detectada
-                cv2.rectangle(img, (x1, y1), (x2, y2), color, thick)
+                #cv2.rectangle(img, (x1, y1), (x2, y2), color, thick)
             else:
                 print(f"Advertencia: Posición mal formada: {pos}")
         else:
