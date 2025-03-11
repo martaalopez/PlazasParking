@@ -19,5 +19,9 @@
 <li>💾 <strong>Pickle</strong></li>
 </ul>
 
+Resultado
+![image](https://github.com/user-attachments/assets/3fe84c95-0d28-460e-8be7-9902f33a4735)
+
+
 
 
